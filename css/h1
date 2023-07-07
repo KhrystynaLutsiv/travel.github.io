@@ -1,3 +1,6 @@
+.simple-linear {
+background: linear-gradient(#97A97C, #606F49);
+}
 .menu-toggle span {
 height: 5px;
 transition: all 0.3s ease-in-out;
